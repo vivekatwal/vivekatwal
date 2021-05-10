@@ -1,5 +1,12 @@
 ### Hi I'm Vivek 👋
 
+
+- 🔭 I’m currently working on ...Semantic Search
+- 🌱 I’m currently learning ...Knowledge Graph
+- 👯 I’m looking to collaborate on ... Elasticsearch Projects
+- 🤔 I’m looking for help with ... Content Creation
+
+
 <!--
 **vivekatwal/vivekatwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
