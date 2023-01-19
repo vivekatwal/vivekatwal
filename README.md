@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on ...Semantic Search
-- 🌱 I’m currently learning ...Knowledge Graph
-- 👯 I’m looking to collaborate on ... Elasticsearch Projects
+- 🌱 I’m currently integrating ...Knowledge Graph
+- 👯 I’m open to discus on ...MLOPS
 - 🤔 I’m looking for help with ... Content Creation
 
 
