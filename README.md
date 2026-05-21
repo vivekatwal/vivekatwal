@@ -3,7 +3,7 @@
 
 
 - 🔭 Solving for companies stuck on retrieval
-- Mentoring early-career and mid career folks figuring out their first step who are trying to break into modern AI.
+- Mentoring early-career and mid career folks to break into modern AI.
 - Consulting non tech solopreneurs on automation layer for content, marketing, and sales.
 - Last I worked on was world models and RL and Narrative Engines
 - Web scale QA in transformers era
