@@ -1,23 +1,14 @@
 ### Hi I'm Vivek 👋
 
 
-- 🔭 I’m currently working on ...Semantic Search
-- 🌱 I’m currently integrating ...Knowledge Graph
-- 👯 I’m open to discus on ...MLOPS
-- 🤔 I’m looking for help with ... Content Creation
 
+- 🔭 Solving for companies stuck on retrieval
+- Mentoring early-career and mid career folks figuring out their first step who are trying to break into modern AI.
+- Consulting non tech solopreneurs on automation layer for content, marketing, and sales.
+- Last I worked on was world models and RL and Narrative Engines
+- Web scale QA in transformers era
+- CNN for image classification and sound classification
+- RNN, LSTM and BILSTM for language translation
+- SVM and NB for grammar detection and correction 
+  
 
-<!--
-**vivekatwal/vivekatwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Semantic Search
-- 🌱 I’m currently learning ...Knowledge Graph
-- 👯 I’m looking to collaborate on ... Elasticsearch Projects
-- 🤔 I’m looking for help with ... Content Creation
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
